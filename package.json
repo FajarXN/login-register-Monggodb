@@ -1,7 +1,7 @@
 {
   "name": "login-system-node",
   "version": "1.0.0",
-  "description": "simpel web login and register",
+  "description": "simpl web login and register",
   "main": "app.js",
   "scripts": {
     "start": "nodemon -x 'node app.js || touch app.js'"
